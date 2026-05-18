@@ -1,4 +1,5 @@
 # 🎰 Unity Slot Machine Game
+ link : https://palak-eng.github.io/SlotMachine/
 
 A simple and polished slot machine game developed in Unity using C#.
 This project was created as part of a Unity game development assignment.
